@@ -63,10 +63,5 @@
     "type": "git",
     "url": "git://github.com/ClaytonKinder/youtube-dl.git"
   },
-  "scripts": {
-    "postinstall": "node ./scripts/download.js",
-    "test": "vows ./test/*.js --spec",
-    "update": "node ./scripts/download.js"
-  },
   "version": "1.11.1"
 }
