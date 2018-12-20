@@ -61,7 +61,7 @@
   "name": "youtube-dl",
   "repository": {
     "type": "git",
-    "url": "git://github.com/fent/node-youtube-dl.git"
+    "url": "git://github.com/ClaytonKinder/youtube-dl.git"
   },
   "scripts": {
     "postinstall": "node ./scripts/download.js",
